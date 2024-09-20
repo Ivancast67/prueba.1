@@ -1,0 +1,11 @@
+C:\Users\labc202\Desktop\prueba_a\prueba_a\prueba_a\bin\Debug\prueba_a.exe.config
+C:\Users\labc202\Desktop\prueba_a\prueba_a\prueba_a\bin\Debug\prueba_a.exe
+C:\Users\labc202\Desktop\prueba_a\prueba_a\prueba_a\bin\Debug\prueba_a.pdb
+C:\Users\labc202\Desktop\prueba_a\prueba_a\prueba_a\obj\Debug\prueba_a.csproj.AssemblyReference.cache
+C:\Users\labc202\Desktop\prueba_a\prueba_a\prueba_a\obj\Debug\prueba_a.csproj.SuggestedBindingRedirects.cache
+C:\Users\labc202\Desktop\prueba_a\prueba_a\prueba_a\obj\Debug\prueba_a.Form1.resources
+C:\Users\labc202\Desktop\prueba_a\prueba_a\prueba_a\obj\Debug\prueba_a.Properties.Resources.resources
+C:\Users\labc202\Desktop\prueba_a\prueba_a\prueba_a\obj\Debug\prueba_a.csproj.GenerateResource.cache
+C:\Users\labc202\Desktop\prueba_a\prueba_a\prueba_a\obj\Debug\prueba_a.csproj.CoreCompileInputs.cache
+C:\Users\labc202\Desktop\prueba_a\prueba_a\prueba_a\obj\Debug\prueba_a.exe
+C:\Users\labc202\Desktop\prueba_a\prueba_a\prueba_a\obj\Debug\prueba_a.pdb
